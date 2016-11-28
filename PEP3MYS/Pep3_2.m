@@ -1,0 +1,1 @@
+[P, ArrayNRandom, ArrayNEstate, Frecuencias, Probabilidades, N] = Pregunta2Class.Pregunta2();

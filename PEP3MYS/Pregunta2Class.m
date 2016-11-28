@@ -14,7 +14,7 @@ classdef Pregunta2Class
                  0   0   1/2 0   0   1/2;
                  0   0   0   1/2 1/2 0];
             % Ingresar variables de entrada
-            prompt = 'Ingrese el numero de variables aleatorias: \n';
+            prompt = 'Ingrese el numero de variables aleatorias N: \n';
             N = input(prompt);
             % Arreglos para futuro analisis 
             ArrayNRandom = zeros(N,1);
